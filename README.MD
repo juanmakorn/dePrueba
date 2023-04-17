@@ -62,4 +62,5 @@ botones, iniciar, pausar y reset
 Tenga en cuenta que al ingresar al link tiene que tener su usuario y constraseña del campus.
 
 ## Repositorio utilizado: 
-- [GitHup](https://github.com/juanmakorn/)
+- [GitHup](https://github.com/juanmakorn/tp5Ejercicio1.git)
+- [Netlify]
